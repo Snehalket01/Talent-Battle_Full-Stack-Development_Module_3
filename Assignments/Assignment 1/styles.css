@@ -1,0 +1,11 @@
+/* styles.css */
+
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+.inline-radio input[type="radio"] {
+    display: inline-block;
+    margin-right: 10px;
+}
